@@ -31,5 +31,7 @@ This Software is derived from the [serialplot](https://github.com/hyOzd/serialpl
 
 * ### QT Creator
 
-    - When all the above is finished, reboot your system and start QT Creator
-    - Open the .pro file and compile the project
+    - When all the above is finished, reboot your system and start QT Creator  
+    - Open the .pro file  
+    - Configure the project with a appropiate kit and set the release build folder to PROJECT_ROOT/build  
+    - Run CQTDeployer from the project root with `cqtdeployer -confFile .\CQtDeployer.json`

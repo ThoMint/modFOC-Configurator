@@ -1,0 +1,23 @@
+{
+    "bin": [
+        "./build/release/modFOC-Configurator.exe",
+        "C:/Qt/Tools/OpenSSL/Win_x64/bin/libssl-1_1-x64.dll"
+    ],
+    "qmake": "C:/Qt/5.12.11/mingw73_64/bin/qmake.exe",
+    "clear": true,
+    "force-clear": false,
+    "libDir": [
+        "C:/Qwt/qwt-6.1.6/lib",
+        "C:/Qt/Tools/OpenSSL/Win_x64/bin"
+    ],
+    "recursiveDepth": 5,
+    "verbose": 3,
+    "name": "modFOC-Configurator",
+    "qif": true,
+    "description": "A Configuration App for modFOC Motor Controllers",
+    "deployVersion": "1.0.0",
+    "releaseDate": "2021-09-20",
+    "icon": "./misc/modFOC-Configurator.ico",
+    "publisher": "Thomas Hofmann",
+    "homePage": "https://github.com/ThoMint/modFOC-Configurator"
+}

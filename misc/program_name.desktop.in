@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=@PROGRAM_DISPLAY_NAME@
+Comment=Destop Application for Configurating modFOC Motor Controllers
+Icon=@PROGRAM_NAME@
+Exec=@PROGRAM_NAME@
+Terminal=false
+Type=Application
+Categories=Development;Electronics;
